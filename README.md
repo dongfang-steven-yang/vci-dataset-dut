@@ -90,7 +90,7 @@ The correspoding paper of the dataset was submitted to the 30th IEEE Intelligent
 
 Title: Top-view Trajectories: A Pedestrian Dataset of Vehicle-Crowd Interaction from Controlled Experiments and Crowded Campus
 
-Authors: Dongfang Yang, Linhui Li, Keith Redmill, and \"{U}mit \"{O}zg\"{u}ner
+Authors: Dongfang Yang, Linhui Li, Keith Redmill, and Umit Ozguner
 
 ## Errors
 - If you find any errors, please contact the author.
