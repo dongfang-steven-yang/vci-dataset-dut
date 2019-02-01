@@ -88,5 +88,9 @@ vis_and_demo.py --source ../clips/stabilized/ --filtered_traj ../clips/trajector
 
 The correspoding paper of the dataset was submitted to the 30th IEEE Intelligent Vehicles Symposium. 
 
+Title: Top-view Trajectories: A Pedestrian Dataset of Vehicle-Crowd Interaction from Controlled Experiments and Crowded Campus
+
+Authors: Dongfang Yang, Linhui Li, Keith Redmill, and \"{U}mit \"{O}zg\"{u}ner
+
 ## Errors
 - If you find any errors, please contact the author.
