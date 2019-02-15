@@ -20,6 +20,8 @@ The DUT dataset were collected at two crowded locations in the campus of Dalian 
 
 Another pedestrian trajectory dataset, CITR dataset, is also available at [here](https://github.com/dongfang-steven-yang/vci-dataset-citr).
 
+## Download Stabilized Raw Videos
+The stabilized raw videos of DUT dataset can be downloaded at [this Google Drive link](https://drive.google.com/file/d/19kPIvMshynDSrHbnPEt3qvvqCdPrhmZ6/view?usp=sharing).
 
 ## Scenarios
 
