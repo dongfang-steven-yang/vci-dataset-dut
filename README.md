@@ -4,7 +4,8 @@ Top-view trajectory data of pedestrians in crowd under vehicle influence in ever
 * Last updated on 03/07/2019
 * E-mail: yang.3455@osu.edu
 
-![](osu-logo.jpg)
+<img src="osu-logo.jpg" width="500">
+
 * Control and Intelligent Transportation Research (CITR) Lab
 * Department of Electrical and Computer Engineering
 * Center for Automotive Research (CAR)
