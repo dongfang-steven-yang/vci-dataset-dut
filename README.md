@@ -98,12 +98,5 @@ After installing the prerequisite, run the following command:
 vis_and_demo.py --source ../clips/stabilized/ --filtered_traj ../clips/trajectories_filtered/ --roi ../clips/rois/ --roi_clip ../clips/roi_clips/ --background ../clips/backgrounds/
 ```
 
-## Linked Paper
-
-The correspoding paper of the dataset was submitted to the 30th IEEE Intelligent Vehicles Symposium. 
-
-arXiv preprint: [Top-view Trajectories: A Pedestrian Dataset of Vehicle-Crowd Interaction from Controlled Experiments and Crowded Campus](https://arxiv.org/abs/1902.00487)
-
-
 ## Errors
 - If you find any errors, please contact the author.
