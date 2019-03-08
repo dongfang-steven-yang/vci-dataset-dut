@@ -4,7 +4,7 @@ Top-view trajectory data of pedestrians in crowd under vehicle influence in ever
 * Last updated on 03/07/2019
 * E-mail: yang.3455@osu.edu
 
-The Ohio State Unviversity
+![](osu-logo.jpg)
 * Control and Intelligent Transportation Research (CITR) Lab
 * Department of Electrical and Computer Engineering
 * Center for Automotive Research (CAR)
@@ -12,6 +12,12 @@ The Ohio State Unviversity
 ## Note
 
 A sister dataset of pedestrian trajectories, CITR dataset, which comes from controlled experiments of fundamental vehicle-crowd interaction, can be accessed at [here](https://github.com/dongfang-steven-yang/vci-dataset-citr).
+
+The detailed description of both datasets can be accessed at arXiv preprint: [Top-view Trajectories: A Pedestrian Dataset of Vehicle-Crowd Interaction from Controlled Experiments and Crowded Campus](https://arxiv.org/abs/1902.00487).
+
+This paper was submitted to [The 30th IEEE Intelligent Vehicles Symposium in Paris](http://iv2019.org/). 
+
+If you find the dataset useful, please consider citing the above paper. :grinning:
 
 ## Overview
 
