@@ -1,24 +1,29 @@
 # Vehicle-Crowd Intraction (VCI) - DUT Dataset
-Vehicle-crowd interaction (VCI) dataset - DUT
+Top-view trajectory data of pedestrians in crowd under vehicle influence in everyday campus scenarios
 
-* Last updated on 01/18/2019
+* Last updated on 03/07/2019
 * E-mail: yang.3455@osu.edu
 
 The Ohio State Unviversity
+* Control and Intelligent Transportation Research (CITR) Lab
+* Department of Electrical and Computer Engineering
+* Center for Automotive Research (CAR)
 
-Control and Intelligent Transportation Research (CITR) Lab
+## Note
 
-Department of Electrical and Computer Engineering
-
-Center for Automotive Research (CAR)
+A sister dataset of pedestrian trajectories, CITR dataset, which comes from controlled experiments of fundamental vehicle-crowd interaction, can be accessed at [here](https://github.com/dongfang-steven-yang/vci-dataset-citr).
 
 ## Overview
 
-The DUT dataset were collected at two crowded locations in the campus of Dalian University of Technology (DUT) in China. One location includes an area of pedestrian crosswalk at an intersection without traffic signals. When VCI happens, in general there is no priority for either pedestrians or vehicles. The other location is a relatively large shared space, in which pedestrians and vehicles can freely move. Similar to CITR dataset, a DJI Mavic Pro Drone with a down-facing camera was hovering above the interested area as the recording equipment, high enough to be unnoticed by pedestrians and vehicles. The video resolution is 4K with an fps of 23.98. Pedestrians are primarily made up of college students who just finished classes and on their way out of classrooms. Vehicles are regular cars that go through the campus. 
+The DUT dataset was collected at two crowded locations in the campus of Dalian University of Technology (DUT) in China. When a crowd of pedestrians interact with a vehicle, there is no priority (the right of way) for either pedestrians or the vehicle.
 
+* One location includes an area of pedestrian crosswalk at an intersection without traffic signals.  
+* The other location is a relatively large shared space, in which pedestrians and vehicles can freely move. 
+
+A DJI Mavic Pro Drone with a down-facing camera was hovering above the interested area as the recording equipment, high enough to be unnoticed by pedestrians and vehicles. The video resolution is 4K with an fps of 23.98. Pedestrians are primarily made up of college students who just finished classes and on their way out of classrooms. Vehicles are regular cars that go through the campus. 
+
+A video clip with both the pedestrains and vehicles labeled is shown below:
 [![DUT Dataset Demo](http://img.youtube.com/vi/ia9kVPBLXJI/0.jpg)](https://www.youtube.com/watch?v=ia9kVPBLXJI "DUT Dataset Demo")
-
-Another pedestrian trajectory dataset, CITR dataset, is also available at [here](https://github.com/dongfang-steven-yang/vci-dataset-citr).
 
 ## Download Stabilized Raw Videos
 The stabilized raw videos of DUT dataset can be downloaded at [this Google Drive link](https://drive.google.com/file/d/19kPIvMshynDSrHbnPEt3qvvqCdPrhmZ6/view?usp=sharing).
