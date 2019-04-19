@@ -37,16 +37,17 @@ A video clip with both the pedestrains and vehicles labeled is shown below:
 
 Or you can download it [here](https://github.com/dongfang-steven-yang/vci-dataset-dut/raw/master/demo-dut.mp4)
 
+<!--
 <video width="700" height="400" controls>
   <source src="/demo-dut.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
+-->
 
 ## Download Stabilized Raw Videos
 The stabilized raw videos of DUT dataset can be downloaded at following links:
-[Google Drive Download](https://drive.google.com/open?id=1J0PW4NoL2mi_eaN_8_SgkWkc0rk7MJZC).
-[Baidu Yun Download](https://pan.baidu.com/s/1lP-qE3lAJuLDwN3H6ee26Q). Code: ui9a
+- [Google Drive Download](https://drive.google.com/open?id=1J0PW4NoL2mi_eaN_8_SgkWkc0rk7MJZC).
+- [Baidu Yun Download](https://pan.baidu.com/s/1lP-qE3lAJuLDwN3H6ee26Q). Code: ui9a
 
 
 ## Scenarios
@@ -93,7 +94,7 @@ psi_est: orientation (heading angle) of the vehicle (in rad)
 vel_est: longitudinal velocity of the vehicle
 ```
 
-#### Filtered Trajectories
+#### Raw Trajectories
 
 If you would like to use raw `\trajectroies`:
 
